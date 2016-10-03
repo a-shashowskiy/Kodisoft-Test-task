@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodisoft Test task.CSharp.Plugins", "Kodisoft Test task.CSharp.Plugins.csproj", "{0A49FCD3-54C3-0E8A-0B3C-2C128F772356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodisoft Test task.CSharp", "Kodisoft Test task.CSharp.csproj", "{3346E9B4-73A6-BFF2-F4C4-7784B8DAABF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodisoft Test task.CSharp.Editor", "Kodisoft Test task.CSharp.Editor.csproj", "{E25F6CE3-D6DC-7096-1918-83FD1AA7ECFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A49FCD3-54C3-0E8A-0B3C-2C128F772356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A49FCD3-54C3-0E8A-0B3C-2C128F772356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A49FCD3-54C3-0E8A-0B3C-2C128F772356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A49FCD3-54C3-0E8A-0B3C-2C128F772356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3346E9B4-73A6-BFF2-F4C4-7784B8DAABF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3346E9B4-73A6-BFF2-F4C4-7784B8DAABF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3346E9B4-73A6-BFF2-F4C4-7784B8DAABF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3346E9B4-73A6-BFF2-F4C4-7784B8DAABF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E25F6CE3-D6DC-7096-1918-83FD1AA7ECFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25F6CE3-D6DC-7096-1918-83FD1AA7ECFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25F6CE3-D6DC-7096-1918-83FD1AA7ECFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25F6CE3-D6DC-7096-1918-83FD1AA7ECFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
